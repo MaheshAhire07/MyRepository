@@ -1,0 +1,31 @@
+2023-02-16 02:34:58,595  INFO [main] Facebook:47 - - Browser Open and Maximized
+2023-02-16 02:35:02,505  INFO [main] Facebook:54 - - URL is open
+2023-02-16 02:35:02,647  INFO [main] Facebook:59 - - Login Id Entered
+2023-02-16 02:35:02,738  INFO [main] Facebook:60 - - Password Entered
+2023-02-16 02:35:02,805  INFO [main] Facebook:61 - - Clicked on Login
+2023-02-16 02:35:09,362  INFO [main] Facebook:69 - - Browser Clossed
+2023-02-16 02:35:10,308  INFO [main] Facebook:47 - - Browser Open and Maximized
+2023-02-16 02:35:12,053  INFO [main] Facebook:54 - - URL is open
+2023-02-16 02:35:12,182  INFO [main] Facebook:59 - - Login Id Entered
+2023-02-16 02:35:12,281  INFO [main] Facebook:60 - - Password Entered
+2023-02-16 02:35:12,351  INFO [main] Facebook:61 - - Clicked on Login
+2023-02-16 02:35:23,229  INFO [main] Facebook:69 - - Browser Clossed
+2023-02-16 02:41:03,906  INFO [main] Facebook:47 - Browser Open and Maximized
+2023-02-16 02:41:05,648  INFO [main] Facebook:54 - - URL is open
+2023-02-16 02:41:05,796  INFO [main] Facebook:59 - Login Id Entered
+2023-02-16 02:41:05,886  INFO [main] Facebook:60 - Password Entered
+2023-02-16 02:41:05,946  INFO [main] Facebook:61 - Clicked on Login
+2023-02-16 02:41:05,947  INFO [main] Facebook:62 - User went on Home page
+2023-02-16 02:41:12,180  INFO [main] Facebook:17 - Apply the Validation
+2023-02-16 02:41:12,776  INFO [main] Facebook:70 - - Browser Clossed
+2023-02-16 02:41:13,686  INFO [main] Facebook:47 - Browser Open and Maximized
+2023-02-16 02:41:15,268  INFO [main] Facebook:54 - - URL is open
+2023-02-16 02:41:15,399  INFO [main] Facebook:59 - Login Id Entered
+2023-02-16 02:41:15,498  INFO [main] Facebook:60 - Password Entered
+2023-02-16 02:41:15,554  INFO [main] Facebook:61 - Clicked on Login
+2023-02-16 02:41:15,555  INFO [main] Facebook:62 - User went on Home page
+2023-02-16 02:41:24,712  INFO [main] Facebook:15 - - Clicked on User Profile
+2023-02-16 02:41:29,277  INFO [main] Facebook:16 - Clicked on Logout
+2023-02-16 02:41:29,277  INFO [main] Facebook:17 - User Went on sign up page
+2023-02-16 02:41:29,277  INFO [main] Facebook:18 - Apply the Validation
+2023-02-16 02:41:29,966  INFO [main] Facebook:70 - - Browser Clossed

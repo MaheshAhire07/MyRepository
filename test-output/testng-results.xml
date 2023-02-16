@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T02:41:02 IST" name="CrossBrowserTestingSuite" finished-at="2023-02-16T02:41:29 IST" duration-ms="27799">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T02:41:02 IST" name="ChromeTest" finished-at="2023-02-16T02:41:29 IST" duration-ms="27799">
+      <class name="com.facebook.TestPackage.TC01_LoginFunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.facebook.TestPackage.TC01_LoginFunctionality@67d48005]" started-at="2023-02-16T02:41:02 IST" name="setUp" finished-at="2023-02-16T02:41:12 IST" duration-ms="9972" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTheLoginFunctionality()[pri:0, instance:com.facebook.TestPackage.TC01_LoginFunctionality@67d48005]" started-at="2023-02-16T02:41:12 IST" name="verifyTheLoginFunctionality" finished-at="2023-02-16T02:41:12 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.TestPackage.TC01_LoginFunctionality@67d48005]" started-at="2023-02-16T02:41:12 IST" name="tearDown" finished-at="2023-02-16T02:41:12 IST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.TestPackage.TC01_LoginFunctionality -->
+      <class name="com.facebook.TestPackage.TC02_LogOutFunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.facebook.TestPackage.TC02_LogOutFunctionality@5c33f1a9]" started-at="2023-02-16T02:41:12 IST" name="setUp" finished-at="2023-02-16T02:41:23 IST" duration-ms="11078" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogOutFunctionality()[pri:0, instance:com.facebook.TestPackage.TC02_LogOutFunctionality@5c33f1a9]" started-at="2023-02-16T02:41:23 IST" name="verifyLogOutFunctionality" finished-at="2023-02-16T02:41:29 IST" duration-ms="5469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogOutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.TestPackage.TC02_LogOutFunctionality@5c33f1a9]" started-at="2023-02-16T02:41:29 IST" name="tearDown" finished-at="2023-02-16T02:41:29 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.TestPackage.TC02_LogOutFunctionality -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- CrossBrowserTestingSuite -->
+</testng-results>
